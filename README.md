@@ -1,4 +1,4 @@
-<h1 align="center">⚡️- Z-Image<br><sub><sup>An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer</sup></sub></h1>
+<h1 align="center">⚡️ Z-Image<br><sub><sup>An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer</sup></sub></h1>
 
 <div align="center">
 
