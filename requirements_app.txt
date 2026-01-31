@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+diffusers
+gradio
+accelerate
+bitsandbytes
+hf_transfer
+xformers
+Pillow
+sentencepiece
